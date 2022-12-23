@@ -2,7 +2,6 @@ from typing import List
 
 # Given an array nums of integers, return how many of them contain an even number of digits.
 # 주어진 배열 nums의 intergers에서 짝수인 숫자의 개수를 구하시오. 
-# O(n)
 # beat 90%, memory 13, code speed is 30ms
 class Solution:
     def findNumber(self, nums: List[int]) -> int:
